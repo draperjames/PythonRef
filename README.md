@@ -2,8 +2,8 @@
 
 A small collection of half done Jupyter Notebook files
 
-You can veiw the notebooks using nbveiwer
+You can veiw the notebooks using nbviewer.
 
     https://nbviewer.jupyter.org/
-
-Here is an example; [PythonReference](https://nbviewer.jupyter.org/github/draperjames/PythonRef/blob/master/PythonReference.ipynb)
+    
+# [Browse all notebooks with nbnviewer](https://nbviewer.jupyter.org/github/draperjames/PythonRef/tree/master/)
